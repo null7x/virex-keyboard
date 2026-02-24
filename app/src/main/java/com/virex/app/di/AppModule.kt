@@ -36,7 +36,7 @@ object AppModule {
             .build()
         
         return Retrofit.Builder()
-            .baseUrl("https://YOUR_VERCEL_URL/")
+            .baseUrl("https://virex-keyboard.vercel.app/")
             .client(client)
             .addConverterFactory(MoshiConverterFactory.create())
             .build()
