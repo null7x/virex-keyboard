@@ -1,0 +1,28 @@
+[
+  {
+    "id": "neon_wave",
+    "name": "Neon Wave",
+    "category": "trending",
+    "background": "blob://themes/neon_wave.webp",
+    "keyColor": "#3F51FF",
+    "fontColor": "#FFFFFF",
+    "isPro": false,
+    "effects": {
+      "rgbGlow": true,
+      "pressAnimation": "spring"
+    }
+  },
+  {
+    "id": "amoled_lava",
+    "name": "AMOLED Lava",
+    "category": "new",
+    "background": "blob://themes/amoled_lava.webp",
+    "keyColor": "#FF2D55",
+    "fontColor": "#FFFFFF",
+    "isPro": true,
+    "effects": {
+      "rgbGlow": true,
+      "pressAnimation": "pulse"
+    }
+  }
+]

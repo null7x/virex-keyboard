@@ -1,0 +1,193 @@
+[
+  {
+    "id": "neon_wave",
+    "name": "Neon Wave",
+    "category": "trending",
+    "background": "#0B0D22",
+    "keyColor": "#3F51FF",
+    "fontColor": "#FFFFFF",
+    "isPro": false,
+    "effects": {
+      "rgbGlow": true,
+      "pressAnimation": "spring",
+      "glowIntensity": 0.8
+    }
+  },
+  {
+    "id": "amoled_lava",
+    "name": "AMOLED Lava",
+    "category": "new",
+    "background": "#050505",
+    "keyColor": "#FF2D55",
+    "fontColor": "#FFFFFF",
+    "isPro": true,
+    "effects": {
+      "gradient": {
+        "colors": ["#FF2D55", "#FF6B35"],
+        "angle": 45
+      },
+      "rgbGlow": true,
+      "pressAnimation": "pulse"
+    }
+  },
+  {
+    "id": "cyber_ice",
+    "name": "Cyber Ice",
+    "category": "for_you",
+    "background": "#0A0F1E",
+    "keyColor": "#11E0FF",
+    "fontColor": "#D9F9FF",
+    "isPro": false,
+    "effects": {
+      "gradient": {
+        "colors": ["#11E0FF", "#00FFA3"],
+        "angle": 135
+      },
+      "glassEffect": true,
+      "pressAnimation": "bounce"
+    }
+  },
+  {
+    "id": "violet_glass",
+    "name": "Violet Glass",
+    "category": "categories",
+    "background": "#140D22",
+    "keyColor": "#A855F7",
+    "fontColor": "#FFFFFF",
+    "isPro": false,
+    "effects": {
+      "gradient": {
+        "colors": ["#A855F7", "#EC4899"],
+        "angle": 90
+      },
+      "glassEffect": true,
+      "blur": 10
+    }
+  },
+  {
+    "id": "gold_luxury",
+    "name": "Gold Luxury",
+    "category": "trending",
+    "background": "#1A1206",
+    "keyColor": "#FFD700",
+    "fontColor": "#1A1206",
+    "isPro": true,
+    "effects": {
+      "gradient": {
+        "colors": ["#FFD700", "#FFA500"],
+        "angle": 45
+      },
+      "metallic": true,
+      "pressAnimation": "spring"
+    }
+  },
+  {
+    "id": "ocean_deep",
+    "name": "Ocean Deep",
+    "category": "new",
+    "background": "#001F3F",
+    "keyColor": "#0074D9",
+    "fontColor": "#7FDBFF",
+    "isPro": false,
+    "effects": {
+      "gradient": {
+        "colors": ["#0074D9", "#39CCCC"],
+        "angle": 180
+      },
+      "wave": true
+    }
+  },
+  {
+    "id": "matrix_green",
+    "name": "Matrix",
+    "category": "popular",
+    "background": "#000000",
+    "keyColor": "#00FF00",
+    "fontColor": "#00FF00",
+    "isPro": false,
+    "effects": {
+      "scanline": true,
+      "pressAnimation": "glitch"
+    }
+  },
+  {
+    "id": "sunset_gradient",
+    "name": "Sunset",
+    "category": "trending",
+    "background": "#2C1A3D",
+    "keyColor": "#FF6B6B",
+    "fontColor": "#FFFFFF",
+    "isPro": true,
+    "effects": {
+      "gradient": {
+        "colors": ["#FF6B6B", "#FFD93D", "#6BCF7F"],
+        "angle": 45
+      },
+      "rgbGlow": true,
+      "pressAnimation": "pulse"
+    }
+  },
+  {
+    "id": "midnight_purple",
+    "name": "Midnight Purple",
+    "category": "categories",
+    "background": "#1C0A2E",
+    "keyColor": "#7B2CBF",
+    "fontColor": "#E9D5FF",
+    "isPro": false,
+    "effects": {
+      "gradient": {
+        "colors": ["#7B2CBF", "#9D4EDD"],
+        "angle": 90
+      },
+      "stars": true
+    }
+  },
+  {
+    "id": "cherry_blossom",
+    "name": "Cherry Blossom",
+    "category": "new",
+    "background": "#FFF0F5",
+    "keyColor": "#FF69B4",
+    "fontColor": "#8B0A50",
+    "isPro": true,
+    "effects": {
+      "gradient": {
+        "colors": ["#FF69B4", "#FFB6C1"],
+        "angle": 135
+      },
+      "petals": true,
+      "pressAnimation": "bounce"
+    }
+  },
+  {
+    "id": "dark_minimalist",
+    "name": "Dark Minimal",
+    "category": "popular",
+    "background": "#0D0D0D",
+    "keyColor": "#2A2A2A",
+    "fontColor": "#E0E0E0",
+    "isPro": false,
+    "effects": {
+      "shadow": true,
+      "pressAnimation": "subtle"
+    }
+  },
+  {
+    "id": "rgb_party",
+    "name": "RGB Party",
+    "category": "trending",
+    "background": "#000000",
+    "keyColor": "#FF0080",
+    "fontColor": "#FFFFFF",
+    "isPro": true,
+    "effects": {
+      "rgbAnimation": {
+        "speed": "fast",
+        "colors": ["#FF0080", "#00FF80", "#0080FF", "#FF8000"]
+      },
+      "rgbGlow": true,
+      "pressAnimation": "rainbow"
+    }
+  }
+]

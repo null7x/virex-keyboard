@@ -1,0 +1,134 @@
+[
+  {
+    "id": "roboto",
+    "name": "roboto",
+    "displayName": "Roboto",
+    "previewUrl": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+    "isPro": false,
+    "category": "SANS_SERIF",
+    "fileSize": 86456,
+    "popularity": 100
+  },
+  {
+    "id": "open_sans",
+    "name": "open_sans",
+    "displayName": "Open Sans",
+    "previewUrl": "https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2",
+    "isPro": false,
+    "category": "SANS_SERIF",
+    "fileSize": 67234,
+    "popularity": 95
+  },
+  {
+    "id": "montserrat",
+    "name": "montserrat",
+    "displayName": "Montserrat",
+    "previewUrl": "https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/montserrat/v25/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "isPro": true,
+    "category": "SANS_SERIF",
+    "fileSize": 78912,
+    "popularity": 90
+  },
+  {
+    "id": "lato",
+    "name": "lato",
+    "displayName": "Lato",
+    "previewUrl": "https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2",
+    "isPro": false,
+    "category": "SANS_SERIF",
+    "fileSize": 56789,
+    "popularity": 85
+  },
+  {
+    "id": "poppins",
+    "name": "poppins",
+    "displayName": "Poppins",
+    "previewUrl": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2",
+    "isPro": true,
+    "category": "SANS_SERIF",
+    "fileSize": 72345,
+    "popularity": 92
+  },
+  {
+    "id": "raleway",
+    "name": "raleway",
+    "displayName": "Raleway",
+    "previewUrl": "https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.woff2",
+    "isPro": true,
+    "category": "SANS_SERIF",
+    "fileSize": 89234,
+    "popularity": 80
+  },
+  {
+    "id": "ubuntu",
+    "name": "ubuntu",
+    "displayName": "Ubuntu",
+    "previewUrl": "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcg72nU6AF7xm.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcg72nU6AF7xm.woff2",
+    "isPro": false,
+    "category": "SANS_SERIF",
+    "fileSize": 54321,
+    "popularity": 75
+  },
+  {
+    "id": "jetbrains_mono",
+    "name": "jetbrains_mono",
+    "displayName": "JetBrains Mono",
+    "previewUrl": "https://fonts.gstatic.com/s/jetbrainsmono/v13/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxTOlOVkWM.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/jetbrainsmono/v13/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxTOlOVkWM.woff2",
+    "isPro": true,
+    "category": "MONOSPACE",
+    "fileSize": 94567,
+    "popularity": 88
+  },
+  {
+    "id": "fira_sans",
+    "name": "fira_sans",
+    "displayName": "Fira Sans",
+    "previewUrl": "https://fonts.gstatic.com/s/firasans/v16/va9E4kDNxMZdWfMOD5Vvl4jLazX3dA.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/firasans/v16/va9E4kDNxMZdWfMOD5Vvl4jLazX3dA.woff2",
+    "isPro": false,
+    "category": "SANS_SERIF",
+    "fileSize": 61234,
+    "popularity": 70
+  },
+  {
+    "id": "dancing_script",
+    "name": "dancing_script",
+    "displayName": "Dancing Script",
+    "previewUrl": "https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2",
+    "isPro": true,
+    "category": "HANDWRITING",
+    "fileSize": 103456,
+    "popularity": 65
+  },
+  {
+    "id": "playfair_display",
+    "name": "playfair_display",
+    "displayName": "Playfair Display",
+    "previewUrl": "https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQZNLo_U2r.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQZNLo_U2r.woff2",
+    "isPro": true,
+    "category": "SERIF",
+    "fileSize": 87654,
+    "popularity": 78
+  },
+  {
+    "id": "pacifico",
+    "name": "pacifico",
+    "displayName": "Pacifico",
+    "previewUrl": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2",
+    "fontUrl": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2",
+    "isPro": true,
+    "category": "HANDWRITING",
+    "fileSize": 76543,
+    "popularity": 82
+  }
+]

@@ -1,0 +1,157 @@
+{
+  "fonts": [
+    {
+      "id": "roboto",
+      "name": "Roboto",
+      "category": "sans-serif",
+      "requiresPro": false,
+      "previewUrl": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "downloadUrl": "",
+      "source": "system",
+      "description": "Modern and friendly sans-serif font"
+    },
+    {
+      "id": "jetbrains_mono",
+      "name": "JetBrains Mono",
+      "category": "monospace",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/jetbrainsmono/v13/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxTN1OVgaY.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/jetbrainsmono/v13/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxTN1OVgaY.woff2",
+      "source": "asset",
+      "description": "Code-inspired font with excellent readability",
+      "tags": ["developer", "coding", "modern"]
+    },
+    {
+      "id": "fira_code",
+      "name": "Fira Code",
+      "category": "monospace",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.woff2",
+      "source": "asset",
+      "description": "Monospace font with programming ligatures",
+      "tags": ["developer", "ligatures", "coding"]
+    },
+    {
+      "id": "source_code_pro",
+      "name": "Source Code Pro",
+      "category": "monospace",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM5hTXUcdJg.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM5hTXUcdJg.woff2",
+      "source": "asset",
+      "description": "Adobe's open-source coding font",
+      "tags": ["developer", "opensource", "clean"]
+    },
+    {
+      "id": "poppins",
+      "name": "Poppins",
+      "category": "sans-serif",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "source": "asset",
+      "description": "Geometric sans-serif with international flair",
+      "tags": ["modern", "geometric", "friendly"]
+    },
+    {
+      "id": "inter",
+      "name": "Inter",
+      "category": "sans-serif",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2",
+      "source": "asset",
+      "description": "Designed for excellent screen readability",
+      "tags": ["ui", "modern", "readable"]
+    },
+    {
+      "id": "sf_mono",
+      "name": "SF Mono",
+      "category": "monospace",
+      "requiresPro": true,
+      "previewUrl": "",
+      "downloadUrl": "",
+      "source": "asset",
+      "description": "Apple's system monospace font",
+      "tags": ["apple", "system", "elegant"]
+    },
+    {
+      "id": "product_sans",
+      "name": "Product Sans",
+      "category": "sans-serif",
+      "requiresPro": true,
+      "previewUrl": "",
+      "downloadUrl": "",
+      "source": "asset",
+      "description": "Google's geometric sans-serif",
+      "tags": ["google", "modern", "clean"]
+    },
+    {
+      "id": "cascadia_code",
+      "name": "Cascadia Code",
+      "category": "monospace",
+      "requiresPro": true,
+      "previewUrl": "",
+      "downloadUrl": "https://github.com/microsoft/cascadia-code/releases/download/v2111.01/CascadiaCode-2111.01.zip",
+      "source": "asset",
+      "description": "Microsoft's modern coding font",
+      "tags": ["microsoft", "coding", "ligatures"]
+    },
+    {
+      "id": "comic_sans",
+      "name": "Comic Neue",
+      "category": "display",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHLwpteLwtHJlc.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHLwpteLwtHJlc.woff2",
+      "source": "asset",
+      "description": "Casual and friendly display font",
+      "tags": ["fun", "casual", "friendly"]
+    },
+    {
+      "id": "dancing_script",
+      "name": "Dancing Script",
+      "category": "handwriting",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2",
+      "source": "asset",
+      "description": "Lively casual script font",
+      "tags": ["handwriting", "elegant", "script"]
+    },
+    {
+      "id": "pacifico",
+      "name": "Pacifico",
+      "category": "handwriting",
+      "requiresPro": true,
+      "previewUrl": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ96A4sijpFu_.woff2",
+      "downloadUrl": "https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ96A4sijpFu_.woff2",
+      "source": "asset",
+      "description": "Surf-inspired script font",
+      "tags": ["retro", "fun", "script"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "sans-serif",
+      "name": "Sans Serif",
+      "description": "Clean and modern fonts without serifs"
+    },
+    {
+      "id": "monospace",
+      "name": "Monospace",
+      "description": "Fixed-width fonts perfect for coding"
+    },
+    {
+      "id": "display",
+      "name": "Display",
+      "description": "Eye-catching fonts for special occasions"
+    },
+    {
+      "id": "handwriting",
+      "name": "Handwriting",
+      "description": "Script and handwritten style fonts"
+    }
+  ]
+}
